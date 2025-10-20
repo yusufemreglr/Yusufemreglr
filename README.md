@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Yusuf
 
-<!--
-**yusufemreglr/Yusufemreglr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student  
+💻 Interested in Backend Development and database systems  
+🚀 Currently improving my skills in Java and SQL
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Learning
+- Java (OOP fundamentals)
+- SQL (relational databases)
+- Git & GitHub
+- Spring Boot (beginner roadmap)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Build small backend projects using Spring Boot and PostgreSQL
+- Improve API development skills
+- Practice clean code and version control
+
+## 📫 Contact
+📧 f231213070@ktun.edu.tr
