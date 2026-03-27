@@ -72,9 +72,7 @@ When I'm not coding, I'm watching films, listening to music, or spending time wi
 
 <div align="center">
 
-![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yusufemreglr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusufemreglr&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yusufemreglr&theme=tokyonight)
 
 </div>
 
